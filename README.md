@@ -7,7 +7,7 @@ Check out the full code docs [HERE](https://lcraver.github.io/pa-modding/)
 Please, if you think you have something to add to the modding discussion, feel free to open a PR. I promise I won't bite~
 
 ### Resources 
-| Name | Link | Description |
+| Name | Author | Description |
 | ---- | ---- | ----------- |
 | [Code Reference](https://lcraver.github.io/pa-modding/) | lcraver | Holds references to many of the common classes PA uses to function |
 
